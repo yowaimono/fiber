@@ -42,7 +42,7 @@ Fiber v3 is currently in beta and under active development. While it offers exci
 Fiber requires **Go version `1.22` or higher** to run. If you need to install or upgrade Go, visit the [official Go download page](https://go.dev/dl/). To start setting up your project. Create a new directory for your project and navigate into it. Then, initialize your project with Go modules by executing the following command in your terminal:
 
 ```bash
-go mod init github.com/your/repo
+go mod init github.com/your/repo   // yowaimono
 ```
 
 To learn more about Go modules and how they work, you can check out the [Using Go Modules](https://go.dev/blog/using-go-modules) blog post.
